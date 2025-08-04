@@ -1,0 +1,19 @@
+{
+  "name": "cli-cep",
+  "version": "1.0.0",
+  "description": "Uma ferramenta CLI para consultar CEPs.",
+  "main": "index.js",
+  "bin": {
+    "cli-cep": "./index.js" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "cep",
+    "nodejs"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC"
+}
